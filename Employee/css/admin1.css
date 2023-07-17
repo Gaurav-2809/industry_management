@@ -1,0 +1,62 @@
+.heading
+{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+    margin-top: 20px;
+}
+body
+{
+	/* background-image: url(download.jpg); */
+	background: #c5e7f8 ;
+
+ 
+}
+form
+{
+	border-radius: 3%;
+	background-color: white;
+	padding: 40px 20px 40px 20px;
+	margin-top: 50px;
+	box-shadow:  10px 10px 20px ;
+	border-image-slice: border-image-slice;
+}
+.submit_btn
+{
+    text-align: center;
+    padding: 10px;
+}
+.login_btn
+{
+	padding: 10px;
+	text-align: center;
+}
+.signup_btn
+{
+	padding: 10px;
+	text-align: center;
+}
+.form-control
+{
+	border: 1px solid black;
+}
+.button
+{
+	color: white;
+	background-color: #286090;
+	border-color: white;
+}
+#signup
+{
+    display: none;
+}
+.buttons
+{
+    margin-top: 25px;
+}
+.btn
+{
+    background-color: #56baed;
+    border: none;
+    margin-top: 10px;
+}
